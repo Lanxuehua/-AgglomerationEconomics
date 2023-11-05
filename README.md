@@ -15,3 +15,9 @@ If we look at the shares knowledge Industry jobs in Greater Melbourne area, we c
 ![image](https://github.com/Lanxuehua/AgglomerationEconomics/assets/107735017/8d87201e-b014-4aa0-9926-aca287c3aed7)
 
 Based on the analysis, the data from 2021 Census indicated the fragile of the knowledge-based agglomeration economies, it shows that the agglomeration economies are not fully depends on the proximity to territory institutions. The threaten factors including the high cost and gentrification in inner Melbourne area, the density and accessibility with the population growth, and the tasks segregation and level of talent to compete with Sydney and Singapore.
+
+### Data Reference:
+- Australian Bureau of Statistics (2006). Geographical Areas (Place of Work) by Main ASGC Melbourne and INDP Industry of Employment [Census TableBuilder], accessed 31 March 2023. 
+- Australian Bureau of Statistics (2011). Geographical Areas (Place of Work) by Greater Melbourne and INDP Industry of Employment [Census TableBuilder], accessed 31 March 2023. 
+- Australian Bureau of Statistics (2016). Geographical Areas (Place of Work) by Greater Melbourne and INDP Industry of Employment [Census TableBuilder], accessed 31 March 2023. 
+- Australian Bureau of Statistics (2021). Geographical Areas (Place of Work) by Greater Melbourne and INDP Industry of Employment [Census TableBuilder], accessed 31 March 2023. 
